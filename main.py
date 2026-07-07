@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 afya_lishe/main.py
-==================
+================
 Afya Lishe - Nutrition Tracking & Meal Planning System
 -------------------------------------------------------
 A command-line application for tracking daily food intake and creating
